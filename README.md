@@ -1,12 +1,12 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Adel%20Abubker&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Full%20Stack%20Dev%20%E2%80%A2%20Automation&descAlignY=52&descAlign=50&descSize=16" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Adel%20Abubker&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Full%20Stack%20Dev%20%E2%80%A2%20Automation&descAlignY=52&descAlign=50&descSize=16" />
 
 </div>
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=6E40C9&center=true&vCenter=true&multiline=true&width=600&height=80&lines=Building+the+web%2C+one+line+at+a+time+%F0%9F%9A%80;Automating+the+boring+stuff+%F0%9F%A4%96;React+%7C+Node.js+%7C+Next.js+%7C+n8n)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=6E40C9&center=true&vCenter=true&multiline=true&width=600&height=80&lines=Building+web+apps+🚀;Automating+workflows+🤖;React+%7C+Node+%7C+Next+%7C+n8n)](https://git.io/typing-svg)
 
 </div>
 
